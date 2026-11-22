@@ -6,6 +6,12 @@ A working, interview-ready **portfolio demonstration** built to explore the sort
 
 > ⚠️ **All records are completely synthetic**: fictional brands, employees, prices, transactions, returns, targets, geographic sales and inventory. Nothing comes from Alteus, actual customers, doctors, patients, or confidential company systems. Do not present any revenue here as company performance.
 
+## Dashboard preview
+
+![PharmaPulse sales analytics dashboard preview](assets/dashboard-preview.svg)
+
+*Visual overview based on the working dashboard and its synthetic 2026 Jan–Oct data. For the fully interactive dashboard, open [`dashboard.html`](dashboard.html) locally in a browser.*
+
 ## Open the project now
 
 - **`dashboard.html`** — offline interactive browser dashboard. Double-click to open (no server, no internet needed). Filters: period, sales region and therapy area. Includes CSV export.

@@ -1,0 +1,3 @@
+# Exclude auto-generated standalone Plotly dashboard from GitHub language statistics.
+# The file is still tracked and available to view or download.
+dashboard.html linguist-generated=true

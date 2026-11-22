@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="PharmaPulse dashboard preview showing synthetic sales KPIs and regional performance">
+<rect x="0" y="0" width="1200" height="720" rx="0" fill="#081625" stroke="none"/>
+<rect x="0" y="0" width="1200" height="92" rx="0" fill="#102e48" stroke="none"/>
+<rect x="28" y="23" width="44" height="44" rx="12" fill="#39d6c1" stroke="none"/>
+<text x="41" y="54" font-family="Arial,Helvetica,sans-serif" font-size="30" fill="#082033" font-weight="700" text-anchor="start">P</text>
+<text x="86" y="31" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#39d6c1" font-weight="700" text-anchor="start">COMMERCIAL INTELLIGENCE / PORTFOLIO DEMO</text>
+<text x="86" y="62" font-family="Arial,Helvetica,sans-serif" font-size="29" fill="#f0f7ff" font-weight="700" text-anchor="start">PharmaPulse Analytics</text>
+<rect x="955" y="30" width="208" height="30" rx="15" fill="#4c342d" stroke="none"/>
+<text x="1059" y="50" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#ffc27b" font-weight="700" text-anchor="middle">SYNTHETIC DATA</text>
+<rect x="28" y="112" width="1144" height="138" rx="20" fill="#14283e" stroke="#29445d"/>
+<text x="52" y="153" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#f1f5fc" font-weight="700" text-anchor="start">Business performance at a glance</text>
+<text x="52" y="178" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#a8bed1" font-weight="400" text-anchor="start">Illustrative pharmaceutical operations across five Indian sales regions.</text>
+<rect x="52" y="194" width="172" height="34" rx="9" fill="#0b1b2c" stroke="#40576b"/>
+<text x="65" y="216" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#dfe6f0" font-weight="400" text-anchor="start">2026 Jan–Oct</text>
+<rect x="236" y="194" width="164" height="34" rx="9" fill="#0b1b2c" stroke="#40576b"/>
+<text x="249" y="216" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#dfe6f0" font-weight="400" text-anchor="start">All regions</text>
+<rect x="412" y="194" width="196" height="34" rx="9" fill="#0b1b2c" stroke="#40576b"/>
+<text x="425" y="216" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#dfe6f0" font-weight="400" text-anchor="start">All therapy areas</text>
+<rect x="628" y="194" width="192" height="34" rx="9" fill="#39d6c1" stroke="none"/>
+<text x="724" y="216" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#062a33" font-weight="700" text-anchor="middle">Export filtered CSV</text>
+<rect x="28" y="270" width="279" height="126" rx="16" fill="#122339" stroke="#27405b"/>
+<circle cx="53" cy="294" r="4" fill="#39d6c1"/>
+<text x="66" y="298" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#bcd0df" font-weight="400" text-anchor="start">Net revenue</text>
+<text x="50" y="347" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#f4f8ff" font-weight="700" text-anchor="start">₹2.19 Cr</text>
+<text x="50" y="377" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8daac2" font-weight="400" text-anchor="start">Net of discounts and returns</text>
+<rect x="321" y="270" width="279" height="126" rx="16" fill="#122339" stroke="#27405b"/>
+<circle cx="346" cy="294" r="4" fill="#75a8f8"/>
+<text x="359" y="298" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#bcd0df" font-weight="400" text-anchor="start">Net units sold</text>
+<text x="343" y="347" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#f4f8ff" font-weight="700" text-anchor="start">1,36,380</text>
+<text x="343" y="377" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8daac2" font-weight="400" text-anchor="start">Units excluding returns</text>
+<rect x="614" y="270" width="279" height="126" rx="16" fill="#122339" stroke="#27405b"/>
+<circle cx="639" cy="294" r="4" fill="#ee8fb0"/>
+<text x="652" y="298" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#bcd0df" font-weight="400" text-anchor="start">Unit return rate</text>
+<text x="636" y="347" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#f4f8ff" font-weight="700" text-anchor="start">0.5%</text>
+<text x="636" y="377" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8daac2" font-weight="400" text-anchor="start">Returned / gross units</text>
+<rect x="907" y="270" width="279" height="126" rx="16" fill="#122339" stroke="#27405b"/>
+<circle cx="932" cy="294" r="4" fill="#ffc27b"/>
+<text x="945" y="298" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#bcd0df" font-weight="400" text-anchor="start">Target attainment</text>
+<text x="929" y="347" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#f4f8ff" font-weight="700" text-anchor="start">83.9%</text>
+<text x="929" y="377" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8daac2" font-weight="400" text-anchor="start">Revenue / assigned targets</text>
+<text x="28" y="435" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#f2f5fc" font-weight="700" text-anchor="start">Revenue &amp; market performance</text>
+<text x="1172" y="435" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#90aabe" font-weight="400" text-anchor="end">2,253 sales transactions</text>
+<rect x="28" y="450" width="727" height="246" rx="16" fill="#11243a" stroke="#2b465b"/>
+<rect x="771" y="450" width="401" height="246" rx="16" fill="#11243a" stroke="#2b465b"/>
+<text x="53" y="482" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#f2f6ff" font-weight="700" text-anchor="start">Monthly revenue trend</text>
+<text x="53" y="502" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a4b8cc" font-weight="400" text-anchor="start">Net revenue, Jan–Oct 2026</text>
+<text x="792" y="482" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#f2f6ff" font-weight="700" text-anchor="start">Regional contribution</text>
+<text x="792" y="502" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a4b8cc" font-weight="400" text-anchor="start">Net revenue by region</text>
+<line x1="86" y1="656" x2="722" y2="656" stroke="#35516a" stroke-width="1"/>
+<line x1="86" y1="616.667" x2="722" y2="616.667" stroke="#35516a" stroke-width="1"/>
+<line x1="86" y1="577.3340000000001" x2="722" y2="577.3340000000001" stroke="#35516a" stroke-width="1"/>
+<line x1="86" y1="538.001" x2="722" y2="538.001" stroke="#35516a" stroke-width="1"/>
+<path d="M 86.0 589.6 L 156.7 594.4 L 227.3 576.3 L 298.0 609.5 L 368.7 582.0 L 439.3 555.9 L 510.0 582.0 L 580.7 615.2 L 651.3 579.3 L 722.0 592.4 L 722 656 L 86 656 Z" fill="#39d6c1" opacity=".12"/>
+<path d="M 86.0 589.6 L 156.7 594.4 L 227.3 576.3 L 298.0 609.5 L 368.7 582.0 L 439.3 555.9 L 510.0 582.0 L 580.7 615.2 L 651.3 579.3 L 722.0 592.4" fill="none" stroke="#39d6c1" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="86.0" cy="589.6" r="4" fill="#39d6c1"/>
+<text x="86" y="680" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#91aeca" font-weight="400" text-anchor="middle">2026-01</text>
+<circle cx="156.7" cy="594.4" r="4" fill="#39d6c1"/>
+<circle cx="227.3" cy="576.3" r="4" fill="#39d6c1"/>
+<text x="227.33333333333334" y="680" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#91aeca" font-weight="400" text-anchor="middle">2026-03</text>
+<circle cx="298.0" cy="609.5" r="4" fill="#39d6c1"/>
+<circle cx="368.7" cy="582.0" r="4" fill="#39d6c1"/>
+<text x="368.6666666666667" y="680" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#91aeca" font-weight="400" text-anchor="middle">2026-05</text>
+<circle cx="439.3" cy="555.9" r="4" fill="#39d6c1"/>
+<circle cx="510.0" cy="582.0" r="4" fill="#39d6c1"/>
+<text x="510" y="680" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#91aeca" font-weight="400" text-anchor="middle">2026-07</text>
+<circle cx="580.7" cy="615.2" r="4" fill="#39d6c1"/>
+<circle cx="651.3" cy="579.3" r="4" fill="#39d6c1"/>
+<text x="651.3333333333334" y="680" font-family="Arial,Helvetica,sans-serif" font-size="10" fill="#91aeca" font-weight="400" text-anchor="middle">2026-09</text>
+<circle cx="722.0" cy="592.4" r="4" fill="#39d6c1"/>
+<text x="835" y="543" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a9c0d5" font-weight="400" text-anchor="end">Central</text>
+<rect x="845" y="527" width="240" height="23" rx="2" fill="#39d6c1" stroke="none"/>
+<text x="1120" y="543" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d5e5f5" font-weight="700" text-anchor="start">45.1 L</text>
+<text x="835" y="574" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a9c0d5" font-weight="400" text-anchor="end">West</text>
+<rect x="845" y="558" width="235" height="23" rx="2" fill="#75a8f8" stroke="none"/>
+<text x="1120" y="574" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d5e5f5" font-weight="700" text-anchor="start">44.3 L</text>
+<text x="835" y="605" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a9c0d5" font-weight="400" text-anchor="end">South</text>
+<rect x="845" y="589" width="234" height="23" rx="2" fill="#70baf2" stroke="none"/>
+<text x="1120" y="605" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d5e5f5" font-weight="700" text-anchor="start">44.0 L</text>
+<text x="835" y="636" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a9c0d5" font-weight="400" text-anchor="end">North</text>
+<rect x="845" y="620" width="231" height="23" rx="2" fill="#b18ee5" stroke="none"/>
+<text x="1120" y="636" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d5e5f5" font-weight="700" text-anchor="start">43.4 L</text>
+<text x="835" y="667" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#a9c0d5" font-weight="400" text-anchor="end">East</text>
+<rect x="845" y="651" width="224" height="23" rx="2" fill="#ffc27b" stroke="none"/>
+<text x="1120" y="667" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d5e5f5" font-weight="700" text-anchor="start">42.2 L</text>
+</svg>

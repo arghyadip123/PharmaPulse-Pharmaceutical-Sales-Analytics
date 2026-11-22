@@ -1,0 +1,16 @@
+{
+  "dataset_type": "100% synthetic and fictional; does not represent Alteus Biogenics",
+  "source_transactions_including_duplicates": 5024,
+  "duplicate_ids_removed": 28,
+  "missing_discounts_defaulted_to_zero": 24,
+  "region_ids_normalized": 32,
+  "invalid_rows_dropped": 0,
+  "rep_region_mismatches_dropped": 0,
+  "clean_transactions": 4996,
+  "net_sales_inr_all_months": 48879038.05,
+  "net_sales_inr_2026_jan_oct": 21895873.4,
+  "units_returned": 1682,
+  "distinct_products": 12,
+  "distinct_regions": 5,
+  "distinct_reps": 15
+}

@@ -1,0 +1,13 @@
+product_id,product_name,therapy_area,list_price_inr,reorder_level_units
+P001,Neurovia 10,CNS,140,320
+P002,Neurovia 20,CNS,220,280
+P003,Mindora 5,Psychiatry,165,300
+P004,Mindora 10,Psychiatry,205,260
+P005,Nervixa 50,Neurology,180,290
+P006,Nervixa 100,Neurology,260,250
+P007,Cardava 5,Cardio-Metabolic,120,360
+P008,Cardava 10,Cardio-Metabolic,170,330
+P009,Glucora 500,Cardio-Metabolic,95,420
+P010,Glucora XR,Cardio-Metabolic,155,350
+P011,Gastrel 20,Gastroenterology,105,390
+P012,Respira 10,Respiratory,185,300

@@ -1,0 +1,16 @@
+rep_id,rep_name,region_name,revenue_inr,target_inr,target_attainment_pct,planned_visits,completed_visits,visit_completion_pct
+E013,Field Executive 13,Central,1582143.6,1586000,99.8,866,744,85.9
+E007,Field Executive 07,West,1565521.15,1586000,98.7,862,775,89.9
+E001,Field Executive 01,East,1482097.15,1586000,93.4,839,749,89.3
+E010,Field Executive 10,South,1480516.3,1586000,93.3,876,786,89.7
+E004,Field Executive 04,North,1469604.15,1586000,92.7,898,801,89.2
+E012,Field Executive 12,South,1595133.85,1895000,84.2,855,767,89.7
+E005,Field Executive 05,North,1459375.55,1739000,83.9,877,767,87.5
+E014,Field Executive 14,Central,1451690.15,1739000,83.5,901,804,89.2
+E008,Field Executive 08,West,1411980.7,1739000,81.2,842,753,89.4
+E002,Field Executive 02,East,1380490.3,1739000,79.4,892,760,85.2
+E015,Field Executive 15,Central,1478464.85,1895000,78.0,842,778,92.4
+E009,Field Executive 09,West,1449288.6,1895000,76.5,895,775,86.6
+E011,Field Executive 11,South,1319932.3,1739000,75.9,886,806,91.0
+E006,Field Executive 06,North,1413674.35,1895000,74.6,899,772,85.9
+E003,Field Executive 03,East,1355960.4,1895000,71.6,857,732,85.4

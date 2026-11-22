@@ -1,0 +1,6 @@
+region_id,region_name,city_1,city_2
+R01,East,Kolkata,Bhubaneswar
+R02,North,Delhi,Jaipur
+R03,West,Mumbai,Pune
+R04,South,Bengaluru,Chennai
+R05,Central,Bhopal,Indore

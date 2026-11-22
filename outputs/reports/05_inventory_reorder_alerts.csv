@@ -1,0 +1,26 @@
+month,region_name,product_name,therapy_area,stock_units,reorder_level_units,shortage_units
+2026-10,Central,Glucora 500,Cardio-Metabolic,81,420,339
+2026-10,East,Neurovia 20,CNS,34,280,246
+2026-10,North,Respira 10,Respiratory,90,300,210
+2026-10,East,Gastrel 20,Gastroenterology,199,390,191
+2026-10,South,Mindora 5,Psychiatry,109,300,191
+2026-10,South,Gastrel 20,Gastroenterology,212,390,178
+2026-10,South,Cardava 10,Cardio-Metabolic,164,330,166
+2026-10,Central,Nervixa 100,Neurology,107,250,143
+2026-10,South,Glucora 500,Cardio-Metabolic,294,420,126
+2026-10,Central,Glucora XR,Cardio-Metabolic,228,350,122
+2026-10,East,Mindora 10,Psychiatry,154,260,106
+2026-10,North,Gastrel 20,Gastroenterology,294,390,96
+2026-10,Central,Neurovia 20,CNS,189,280,91
+2026-10,West,Neurovia 20,CNS,209,280,71
+2026-10,South,Neurovia 20,CNS,211,280,69
+2026-10,North,Cardava 10,Cardio-Metabolic,274,330,56
+2026-10,East,Mindora 5,Psychiatry,246,300,54
+2026-10,East,Cardava 5,Cardio-Metabolic,306,360,54
+2026-10,West,Glucora 500,Cardio-Metabolic,374,420,46
+2026-10,East,Neurovia 10,CNS,275,320,45
+2026-10,West,Mindora 10,Psychiatry,221,260,39
+2026-10,South,Glucora XR,Cardio-Metabolic,311,350,39
+2026-10,North,Glucora XR,Cardio-Metabolic,338,350,12
+2026-10,Central,Gastrel 20,Gastroenterology,378,390,12
+2026-10,South,Neurovia 10,CNS,313,320,7

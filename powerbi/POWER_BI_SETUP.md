@@ -112,4 +112,4 @@ Save it yourself as `PharmaPulse_PowerBI.pbix`, then add a screenshot to your Gi
 
 ## Integrity note
 
-These are fictional products, employees, targets, invoices and inventory snapshots. No information comes from Alteus Biogenics or any actual pharmacy, clinic, or patient system.
+These are fictional products, employees, targets, invoices, and inventory snapshots. No real company, pharmacy, clinic, customer, or patient data is included.

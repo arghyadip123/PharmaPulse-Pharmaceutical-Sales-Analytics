@@ -2,9 +2,9 @@
 
 **Python • Pandas • SQL (SQLite) • Excel • Interactive HTML/Plotly • Power BI-ready data**
 
-A working, interview-ready **portfolio demonstration** built to explore the sort of commercial analytics work mentioned in the Executive / Management Trainee – Business Analytics & Data Automation job description at Alteus Biogenics. The project is **independent** and **not affiliated with or endorsed by Alteus Biogenics**.
+An independent portfolio project demonstrating pharmaceutical sales analytics, automated data cleaning, SQL reporting, and interactive dashboards using fictional sample data.
 
-> ⚠️ **All records are completely synthetic**: fictional brands, employees, prices, transactions, returns, targets, geographic sales and inventory. Nothing comes from Alteus, actual customers, doctors, patients, or confidential company systems. Do not present any revenue here as company performance.
+> **Sample-data notice:** All brands, employees, prices, transactions, returns, targets, sales regions, and inventory records are synthetic and fictional. No actual company, customer, doctor, or patient information is used. Reported revenue is for demonstration only.
 
 ## Dashboard preview
 
@@ -64,7 +64,7 @@ A native Power BI `.pbix` file is **not included**; create and save it with Micr
 ## Folder layout
 
 ```text
-alteus_pharma_analytics/
+PharmaPulse-Pharmaceutical-Sales-Analytics/
 ├── dashboard.html                 # Working, self-contained interactive dashboard
 ├── README.md                      # You are here
 ├── requirements.txt

@@ -1,4 +1,4 @@
-# Placement interview guide — PharmaPulse
+# PharmaPulse — Project explanation and interview guide
 
 **30-second project explanation:**
 
@@ -53,4 +53,4 @@ Source-system access controls, price/master-data validation, batch tracking, dat
 - Used Pandas to clean duplicate/incomplete sales records; generated SQL reporting for revenue, targets, field-force productivity and inventory alerts.
 - Produced a formula-driven Excel workbook and interactive offline analytics dashboard with regional and therapy filters.
 
-Add “Power BI” **only after creating the actual report in Power BI Desktop**. Do not present sample numbers as genuine Alteus financial results.
+Add “Power BI” **only after creating the actual report in Power BI Desktop**. Do not present synthetic demonstration numbers as actual company financial results.
